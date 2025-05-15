@@ -42,7 +42,7 @@ export default function Page() {
         height={620}
         className='black mb:hidden'
         alt='Screenshot of the dashboard project showing mobile version'/>
-        </div>
+        
         
       </div>
     </main>
